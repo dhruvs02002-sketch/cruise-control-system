@@ -30,11 +30,11 @@ This is the situation we've modeled where the car is the black box in
 the picture and it is inclined at an angle theta to the horizontal
 ground.
 
-> ![Figure 1 : Black box is the car and is inclined at an angle 𝜃 to
-> ground](./image6.png){width="5.807292213473316in"
-> height="2.950178258967629in"}\
-> Figure 1 : Black box is the car and is inclined at an angle 𝜃 to
-> ground
+<p align="center">
+  <img src="assets/image3.png" alt="Vehicle Incline Model" width="600"/>
+  <br>
+  <em>Figure 1: Vehicle on inclined road angle θ.</em>
+</p>
 
 ![](./image8.png){width="6.5in" height="3.513888888888889in"}
 
