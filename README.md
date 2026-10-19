@@ -162,7 +162,11 @@ $e(t)\  = \ v_{ref}(t)\  - \ v(t)$
 
 and then feeds $e(t)$ into a controller $C(s)$.
 
-![](./image7.png){width="6.5in" height="2.763888888888889in"}
+<p align="center">
+  <img src="assets/image7.png" alt="Feedback loop" width="600"/>
+  <br>
+  <em>Figure 3: Feedback loop.</em>
+</p>
 
 Derivation of closed loop Dynamics
 
@@ -175,8 +179,11 @@ $v(s)\  + \ C(s) \cdot G(s) \cdot v(s)\  = \ C(s) \cdot G(s) \cdot v_{ref}(s)\ \
 
 $v(s) \cdot \lbrack 1\  + \ C(s) \cdot G(s)\rbrack\  = C(s) \cdot G(s) \cdot v_{ref}(s)\ \  - \ G(s) \cdot D(s)\ $
 
-![](./image5.png){width="4.359375546806649in"
-height="0.7594389763779528in"}
+<p align="center">
+  <img src="assets/image5.png" alt="Vehicle Incline Model" width="600"/>
+  <br>
+  <em></em>
+</p>
 
 > $T_{ref}(s)$ $T_{dist}(s)$
 
