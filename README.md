@@ -31,7 +31,7 @@ the picture and it is inclined at an angle theta to the horizontal
 ground.
 
 <p align="center">
-  <img src="assets/image3.png" alt="Vehicle Incline Model" width="600"/>
+  <img src="assets/image5.png" alt="Vehicle Incline Model" width="600"/>
   <br>
   <em>Figure 1: Vehicle on inclined road angle θ.</em>
 </p>
