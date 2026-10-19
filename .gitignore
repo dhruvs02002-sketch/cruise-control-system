@@ -1,0 +1,21 @@
+# Virtual Environments (prevents uploading hundreds of MBs of installed packages)
+controlenv/
+venv/
+env/
+ENV/
+
+# Python Bytecode & Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# IDE / Editor Settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS Temporary Files
+.DS_Store
+Thumbs.db
