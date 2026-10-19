@@ -1,16 +1,3 @@
----
-title: |
-  []{#_aczyuw2yex2w .anchor}Documentation**\
-  **Automotive Cruise Control System
----
-
-![short line](./image4.png){width="0.4895833333333333in"
-height="6.25e-2in"}
-
-Dhruv Sachdeva
-
-**Libraries:** control, numpy, matplotlib, scipy
-
 # Introduction
 
 In this project, we are modeling a vehicle moving forward subject to
