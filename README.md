@@ -29,17 +29,19 @@ In this project, we have
 This is the situation we've modeled where the car is the black box in
 the picture and it is inclined at an angle theta to the horizontal
 ground.
-
 <p align="center">
-  <img src="assets/image5.png" alt="Vehicle Incline Model" width="600"/>
+  <img src="assets/image6.png" alt="Vehicle Incline Model" width="600"/>
   <br>
   <em>Figure 1: Vehicle on inclined road angle θ.</em>
 </p>
 
-![](./image8.png){width="6.5in" height="3.513888888888889in"}
+<p align="center">
+  <img src="assets/image8.png" alt="Vehicle Incline Model" width="600"/>
+  <br>
+  <em>Figure 2 : This is a free body diagram of the model showing all the
+forces that has been accounted for</em>
+</p>
 
-Figure 2 : This is a free body diagram of the model showing all the
-forces that has been accounted for
 
 # Time domain differential equation 
 
